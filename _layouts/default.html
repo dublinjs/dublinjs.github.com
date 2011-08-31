@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Article">
+<head>
+	<meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+
+  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:type" content="{{ page.type }}"/>
+  <meta property="og:url" content="{{ site.root_url | append:page.url }}"/>
+  <meta property="og:image" content="{{ site.root_url | append:page.image_url }}"/>
+  <meta property="og:site_name" content="Dublin Javascript Group"/>
+  <meta property="og:description" content="{{ page.description }}"/>
+
+  <meta itemprop="name" content="{{ page.title }}">
+  <meta itemprop="description" content="{{ page.description }}">
+  <meta itemprop="image" content="{{ site.root_url | append:page.image_url }}">
+  
+  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-1.1.0.min.css" />
+  <link rel="stylesheet" href="/css/styles.css" type="text/css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1><a href='{{ site.root_url }}'>Blog</a></h1>
+    </header>
+    {{ content }}
+  </div>
+</body>
+</html>
