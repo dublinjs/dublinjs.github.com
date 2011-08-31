@@ -1,18 +1,15 @@
-<html>
-<head>
-  <title>DublinJS</title>
-</head>
-<body>
-  <h1>DublinJS</h2>
-  <h2>Next meetup:
-  <p>September 13th 2011</p>
-  <h3>Introduction to Backbone.js (David)</h3>
-  <h3>Kata (Wiktor)</h3>
-  <h2>Location<h2>
-  <h3>AMWorks - Anglesea Mills -  9 Anglesea Row</h3>
-  <p>Dublin 7 -- FREE</p>
-  <h2>More information:</h3>
-  <p><a href="https://groups.google.com/group/dublinjs">dublinjs group</a></p>
-  <p><a href="http://twitter.com/#!/dublinjs">@dublinjs</a></p>
-</body>
-</html>
+---
+layout: home
+type: website
+description: The official home of the Dublin JavaScript Group
+---
+
+{% for post in site.posts limit:5 %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {{ post.content | replace:"more start -->","" | replace: "<!-- more end",""  }}
+  <a href="{{ post.url }}" class="fr">Read more...</a>
+  <p>
+    <em>Posted on {{ post.date | date_to_long_string }}.</em>
+  </p>
+  <div class="line-separator"></div>
+{% endfor %}
