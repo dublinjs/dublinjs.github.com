@@ -16,7 +16,7 @@ Free
 
 **Schedule**  
  1. Introduction to [ Backbone.js ](http://documentcloud.github.com/backbone/) by [ David Tuite ](http://twitter.com/#!/dtuite)
- 2. Kata hosted by [ Wictor Schmidt ](http://twitter.com/#!/wiktorschmidt)
+ 2. Kata hosted by [ Wiktor Schmidt ](http://twitter.com/#!/wiktorschmidt)
 
 **More Information**  
 [ Google Group ](https://groups.google.com/group/dublinjs)  
