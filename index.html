@@ -4,12 +4,11 @@ type: website
 description: The official home of the Dublin JavaScript Group
 ---
 
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:1 %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.content | replace:"more start -->","" | replace: "<!-- more end",""  }}
-  <a href="{{ post.url }}" class="fr">Read more...</a>
   <p>
     <em>Posted on {{ post.date | date_to_long_string }}.</em>
   </p>
-  <div class="line-separator"></div>
+  <br />
+  {{ post.content }}
 {% endfor %}

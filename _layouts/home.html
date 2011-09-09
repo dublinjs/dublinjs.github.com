@@ -6,7 +6,19 @@ title: Dublin JavaScript Group
 <div class="row">
   <div class="span10 columns">
     <div id="content">{{ content }}</div>
+
+    <div class="inverted line-separator"></div>
+    <div class="recent_posts">
+      <h3>Recent Posts</h3>
+      {% for post in site.posts limit:5 %}
+        <div>
+          <h5 class="inline">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </h5>
+          <em>Posted on {{ post.date | date_to_long_string }}.</em>
+        </div>
+      {% endfor %}
+    </div>
   </div>
   {% include sidebar.html %}
 </div> <!-- row -->
-

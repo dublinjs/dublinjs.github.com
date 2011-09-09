@@ -1,11 +1,16 @@
 header { margin-bottom: 15px; }
 .fr { float: right; clear: none }
 .ml { margin-left: 5px; }
+.inline { display: inline; }
 .line-separator{
   height:1px;
   background: #ddd;
   border-bottom:1px solid #eee;
   margin-bottom: 30px;
+}
+.inverted { 
+  margin-top: 30px;
+  margin-bottom: 0;
 }
 .social{
   margin-top: 20px;
