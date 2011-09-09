@@ -16,15 +16,28 @@
   <meta itemprop="description" content="{{ page.description }}">
   <meta itemprop="image" content="{{ site.root_url | append:page.image_url }}">
   
-  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-1.1.0.min.css" />
+  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-1.2.0.min.css" />
   <link rel="stylesheet" href="/css/styles.css" type="text/css" />
 </head>
-<body>
-  <div class="container">
-    <header>
-      <h1><a href='{{ site.root_url }}'>Blog</a></h1>
-    </header>
-    {{ content }}
-  </div>
+<body style="padding-top: 40px;">
+  <div class="topbar">
+    <div class="topbar-inner">
+      <div class="container">
+        <h3><a href="{{ site.root_url }}">DublinJS</a></h3>
+        <ul class="nav">
+          <li><a href="#next">Next meetup</a></li>
+          <li><a href="#location">Location</a></li>
+          <li><a href="#more">More information</a></li>
+        </ul>
+      </div> <!-- container -->
+    </div> <!-- topbar-inner -->
+  </div> <!-- topbar -->
+  <div id="masthead">
+    <div class="inner">
+      <div class="container">
+        {{ content }}
+      </div> <!-- container -->
+    </div> <!-- inner -->
+  </div> <!-- masthead -->
 </body>
 </html>
