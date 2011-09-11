@@ -12,7 +12,7 @@ September 13th 2011 at 6:30 pm
 [ AMWorks ](http://www.amworks.ie/ ) - Anglesea Mills -  9 Anglesea Row, Dublin 7
 
 **Cost**  
-Free
+Free -- No Registration needed.
 
 **Schedule**  
  1. Introduction to [ Backbone.js ](http://documentcloud.github.com/backbone/) by [ David Tuite ](http://twitter.com/#!/dtuite)
