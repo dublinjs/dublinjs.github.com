@@ -4,14 +4,14 @@ title: Resources from September 13th Meetup
 description: Compilation of resources
 image_url: /images/default.png
 ---
-** Requirements **
+**Requirements**
 
 NodeJS - [Install Guide](https://github.com/joyent/node/wiki/Installation)
 NPM (node package manager) - [Install Guide](http://npmjs.org/)
 CoffeeScript - *npm install coffee-script*
 Jasmine-node - *npm install jasmine-node*
 
-** Backbone.js Presentation **
+**Backbone.js Presentation**
 
 Best resource from the web
 [ Thread on Quora ](http://www.quora.com/What-are-some-good-resources-for-Backbone-js) 
@@ -26,7 +26,7 @@ Annotated source code for backbone can be found at:
 Also the framework and example TODO from the presentation can be found at:
 [Github Repo](https://github.com/dtuite/backbone-todo)
 
-** Kata - Minesweeper **
+**Kata - Minesweeper**
 
 The kata's problem description can be found at:
 [Kata Readme](https://github.com/12meses12katas/Agosto-Minesweeper)
