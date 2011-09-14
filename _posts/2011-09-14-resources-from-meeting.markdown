@@ -6,10 +6,10 @@ image_url: /images/default.png
 ---
 **Requirements**
 
-NodeJS - [Install Guide](https://github.com/joyent/node/wiki/Installation)
-NPM (node package manager) - [Install Guide](http://npmjs.org/)
-CoffeeScript - *npm install coffee-script*
-Jasmine-node - *npm install jasmine-node*
+1. NodeJS - [Install Guide](https://github.com/joyent/node/wiki/Installation)
+2. NPM (node package manager) - [Install Guide](http://npmjs.org/)
+3. CoffeeScript - *npm install coffee-script*
+4. Jasmine-node - *npm install jasmine-node*
 
 **Backbone.js Presentation**
 
