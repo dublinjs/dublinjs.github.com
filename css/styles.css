@@ -16,6 +16,18 @@ header { margin-bottom: 15px; }
   margin-top: 20px;
 }
 
+#content{
+    margin-top:6px;
+	margin-left:3px;
+	border:1px solid dodgerblue;
+	color:#1C3B70;
+	padding:9px;
+	background: #EDF0F2;
+	-webkit-border-radius:10px;
+	
+    
+ }
+
 
 /********** Syntax Highlighting ******/
 /* https://github.com/mojombo/tpw/blob/master/css/syntax.css */
