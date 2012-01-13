@@ -16,7 +16,7 @@ Free -- No Registration needed.
 
 **Schedule**  
  1. JavaScript classes : Making JavaScript more like Ruby by [David Tuite ](http://twitter.com/#!/dtuite)
- 2. TBD by Nigel Kelly -- this will be updated soon. 
+ 2. Lightning Talk : some product ideas by [Nigel Kelly] (http://twitter.com/#!/nigekelly)
 
 **More Information**  
 [ Google Group ](https://groups.google.com/group/dublinjs)  
