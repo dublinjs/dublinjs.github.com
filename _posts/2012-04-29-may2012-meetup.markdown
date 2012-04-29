@@ -1,0 +1,25 @@
+---
+layout: post
+title: May 2012 Meetup
+description: May 2012 Meetup
+image_url: /images/default.png
+---
+
+**Date**  
+May 1st 2012 at 6.30 pm
+
+**Location**  
+[ AMWorks ](http://www.amworks.ie/ ) - Anglesea Mills -  9 Anglesea Row, Dublin 7
+
+**Cost**  
+Free -- No Registration needed.
+
+**Schedule**  
+A number of Rant sessions including:
+ 1. 5 things why you should not use Sencha -- [Dom](http://twitter.com/#!/@dymonaz) Vs. (Cian)(http://twitter.com/#!/@cianclarke)
+ 2. Any other ranters on the night
+ 3. The session will continue at the Black Sheep in Capel St.
+
+**More Information**  
+[ Google Group ](https://groups.google.com/group/dublinjs)  
+[ Twitter ](http://twitter.com/#!/dublinjs)
