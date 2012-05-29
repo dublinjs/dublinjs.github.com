@@ -1,0 +1,22 @@
+---
+layout: post
+title: June 2012 Meetup
+description: June 2012 Meetup
+image_url: /images/default.png
+---
+
+**Date**  
+June 5th 2012 at 6.30 pm
+
+**Location**  
+[ AMWorks ](http://www.amworks.ie/ ) - Anglesea Mills -  9 Anglesea Row, Dublin 7
+
+**Cost**  
+Free -- No Registration needed.
+
+**Schedule**  
+A coding sessions working through the [Roman Numenals Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals)
+
+**More Information**  
+[ Google Group ](https://groups.google.com/group/dublinjs)  
+[ Twitter ](http://twitter.com/#!/dublinjs)
