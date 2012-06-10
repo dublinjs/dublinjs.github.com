@@ -78,7 +78,7 @@ h6{font-size:11px;color:#999999;text-transform:uppercase;}
 .page-header h1{line-height:1;}
 ul,ol{padding:0;margin:0 0 9px 25px;}
 ul ul,ul ol,ol ol,ol ul{margin-bottom:0;}
-ul{list-style:disc;}
+ul{list-style-type:none;}
 ol{list-style:decimal;}
 li{line-height:18px;}
 ul.unstyled{margin-left:0;list-style:none;}
