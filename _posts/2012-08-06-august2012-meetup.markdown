@@ -1,0 +1,22 @@
+---
+layout: post
+title: August 2012 Meetup
+description: August 2012 Meetup
+image_url: /images/default.png
+---
+
+**Date**  
+August 7th 2012 at 6.30 pm
+
+**Location**  
+[ AMWorks ](http://www.amworks.ie/ ) - Anglesea Mills -  9 Anglesea Row, Dublin 7
+
+**Cost**  
+Free -- No Registration needed.
+
+**Schedule**  
+A coding sessions working through the [FizzBuzz Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataFizzBuzz), focusing on some of the SOLID principles.
+
+**More Information**  
+[ Google Group ](https://groups.google.com/group/dublinjs)  
+[ Twitter ](http://twitter.com/#!/dublinjs)
