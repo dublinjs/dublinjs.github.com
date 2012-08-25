@@ -15,7 +15,7 @@ September 4th 2012 at 6.30 pm
 Free -- No Registration needed.
 
 **Schedule**  
-Presentation: Introducing [AngularJS](http://www.angularjs.org/) by [Donovan Hutchinson](http://twitter.com/#donovanh). 
+Presentation: Introducing [AngularJS](http://www.angularjs.org/) by [Donovan Hutchinson](http://twitter.com/donovanh). 
 
 **More Information**  
 [ Google Group ](https://groups.google.com/group/dublinjs)  
