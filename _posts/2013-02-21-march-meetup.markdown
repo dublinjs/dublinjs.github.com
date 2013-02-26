@@ -1,6 +1,6 @@
 ---
 layout: post
-title: February 2013 Meetup
+title: March 2013 Meetup
 description: February 2013 Meetup
 image_url: /images/default.png
 ---
@@ -18,7 +18,7 @@ South
 Free -- No Registration needed.
 
 **Schedule**  
-Improving website UI with CSS animations[Donovan Hutchinson] (https://twitter.com/donovanh).
+Improving website UI with CSS animations [Donovan Hutchinson] (https://twitter.com/donovanh).
 
 
 **More Information**  
