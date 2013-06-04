@@ -1,7 +1,7 @@
 ---
 layout: post
 title: March 2013 Meetup
-description: February 2013 Meetup
+description: March 2013 Meetup
 image_url: /images/default.png
 ---
 
