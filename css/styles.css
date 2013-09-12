@@ -124,10 +124,10 @@ p a {
   --perspective: 800px;
   --transform-style: preserve-3d;
   --transform-origin: 100% 50%;
-  -webkit-animation: introduce-content 1.25s forwards;
-  -moz-animation:    introduce-content 1.25s forwards;
-  -o-animation:      introduce-content 1.25s forwards;
-  animation:         introduce-content 1.25s forwards;
+  -webkit-animation: introduce-content 1.5s forwards;
+  -moz-animation:    introduce-content 1.5s forwards;
+  -o-animation:      introduce-content 1.5s forwards;
+  animation:         introduce-content 1.5s forwards;
 }
 
 #disqus_thread {
