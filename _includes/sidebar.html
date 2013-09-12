@@ -1,5 +1,6 @@
-<div class="span5 columns offset1">
-  <img src="http://i.imgur.com/mWqbN.png" alt="Dublin JS logo">
+
+<div class="span3 sidebar">
+  <h1 class="logo"><a href="/">dublin<span>JS</span></a></h1>
   <p>The official home of the Dublin JavaScript Group</p>
   <p></p>
   <p>Join us in the <b>#dublinjs</b> channel on the <b>freenode</b> IRC server</p>
@@ -8,8 +9,16 @@
     <p>{% include tweet_btn.html %}</p>
     <p>{% include facebook_like_btn.html %}</p>
     <p>{% include google_plus_btn.html %}</p>
-    <p>{% include reddit_submit_btn.html %}</p>
-    <p>{% include digg_btn.html %}</p>
-    <p>{% include better_js_docs.html %}</p>
+    <div class="recent_posts">
+        <h2>Recent Meetups</h2>
+        {% for post in site.posts limit:5 %}
+          <div>
+            <h5 class="inline">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h5>
+          </div>
+        {% endfor %}
+      </div>
   </div>
 </div>
+

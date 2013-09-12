@@ -5,10 +5,9 @@ description: The official home of the Dublin JavaScript Group
 ---
 
 {% for post in site.posts limit:1 %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>
+  <h1>Next meetup: <a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="posted">
     <em>Posted on {{ post.date | date_to_long_string }}.</em>
   </p>
-  <br />
   {{ post.content }}
 {% endfor %}
