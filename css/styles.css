@@ -37,6 +37,7 @@ h1 {
 h1.logo {
   font-weight: 200;
   margin-right: 0;
+  background-color: #ee6600;
 }
 
 h1.logo span {
@@ -53,11 +54,15 @@ h1 a {
 
 h2, h3 {
   font-weight: 200;
+  line-height: 1.25em;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 p {
   font-size: 18px;
   line-height: 1.5em;
+  margin: 6px 0 12px;
 }
 
 a {
