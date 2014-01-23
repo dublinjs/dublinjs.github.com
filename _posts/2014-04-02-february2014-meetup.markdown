@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Graphing with Rickshaw and Backbone.js'
-description: "This month we have a talk on Graphing with Rickshaw and Backbone.js from Richard Powell."
+title: 'design patterns for angular apps'
+description: "A beginner-intermediate overview of how to structure an angular app"
 image_url: /images/default.png
 ---
 
