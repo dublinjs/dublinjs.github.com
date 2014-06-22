@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'nodeschool.io : promises'
+description: "An evening with nodeschool.io, working on the Promises exercises"
+image_url: /images/default.png
+---
+
+## When
+July 1st, 2014 at 6.30pm
+
+## Location
+[ Wayra Ireland ]( http://ie.wayra.org/en/academia/dublin) - 28-29 Sir John Rogerson’s Quay, 2, Dublin
+
+## Schedule
+
+An open session for people to work on exercises from the [promises workshop on nodeschool.io](http://nodeschool.io/#promiseitwonthurt). There
+will be facilitators familiar with the problems ready to help out, or demonstrate solutions if that's requested. If you really can't stand
+promises, feel free to work on the [async workshop](http://nodeschool.io/#asyncyou), or any other nodeschool workshop instead.
+
+You will need:
+ - A laptop
+ - nodejs installed
+ - the promises workshop installed
+
+If you're having trouble installing anything, don't worry, just bring your laptop and we can help you get setup.
+
+## Sign up
+
+RSVP for [this event on Meetup](http://www.meetup.com/DublinJS/events/184911992/).
+
+## Cost
+Free -- No Registration needed.
+
+## More Information 
+[ Google Group ](https://groups.google.com/group/dublinjs)  
+[ Twitter ](http://twitter.com/#!/dublinjs)
+[ Meetup ](http://www.meetup.com/DublinJS/)
