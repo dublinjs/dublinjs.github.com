@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'Web components with Peter Munro'
+description: "Web components with Peter Munro"
+image_url: /images/default.png
+---
+
+## When
+August 5th, 2014 at 6.30pm
+
+## Location
+[ Wayra Ireland ]( http://ie.wayra.org/en/academia/dublin) - 28-29 Sir John Rogerson’s Quay, 2, Dublin
+
+## Schedule
+
+[Peter Munro](https://twitter.com/peter_munro) is giving a talk about web components, what they are and how you might use them.
+
+Depending on available time, [David McMullin](https://twitter.com/davecocoa7) will talk about some interesting topics covered at this year's [LXJS](http://2014.lxjs.org/).
+
+Finally, the generous organisers of this year's [dotJSeu](http://www.dotjs.eu/) have provided us with a free ticket which we will be raffling off at the meetup.
+
+## Sign up
+
+RSVP for [this event on Meetup](http://www.meetup.com/DublinJS/events/187051502/).
+
+## Cost
+Free -- No Registration needed.
+
+## More Information 
+[ Google Group ](https://groups.google.com/group/dublinjs)  
+[ Twitter ](http://twitter.com/#!/dublinjs)
+[ Meetup ](http://www.meetup.com/DublinJS/)
