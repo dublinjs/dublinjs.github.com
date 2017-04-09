@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lightening talks Meetup'
+title: 'Lightening talks'
 description: "lightening talks"
 image_url: /images/default.png
 ---
