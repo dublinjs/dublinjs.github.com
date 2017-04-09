@@ -36,11 +36,10 @@ h1 {
 
 h1.logo {
   font-weight: 200;
-  margin-right: 0;
+  margin-right: 50%;
   /*background-color: #ee6600;*/
   background-repeat:no-repeat;
   background-image: url(../images/dublinjs-logo.jpg);
- float: right;
 }
 
 h1.logo span {
