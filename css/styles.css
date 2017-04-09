@@ -37,7 +37,7 @@ h1 {
 h1.logo {
   font-weight: 200;
   margin-right: 0;
-  background-color: #ee6600;
+  /*background-color: #ee6600;*/
   background-repeat:no-repeat;
    z-index: 0;
 }
