@@ -40,7 +40,7 @@ h1.logo {
   /*background-color: #ee6600;*/
   background-repeat:no-repeat;
   background-image: url(../images/dublinjs-logo.jpg);
- 
+ float: right;
 }
 
 h1.logo span {
