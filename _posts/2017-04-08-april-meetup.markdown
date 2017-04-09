@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Current Meetup'
-description: "lighting talks"
+title: 'Lightening talks Meetup'
+description: "lightening talks"
 image_url: /images/default.png
 ---
 
@@ -13,7 +13,7 @@ April 4th, 2017 at 6.30pm
 
 ## Schedule
 
-[lighting talks](https://twitter.com/peter_munro) is giving a talk about ...
+[Lightening talks](https://twitter.com/peter_munro) is giving a talk about ...
 
 
 ## Sign up
