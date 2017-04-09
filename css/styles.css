@@ -36,7 +36,8 @@ h1 {
 
 h1.logo {
   font-weight: 200;
-  margin-right: 50%;
+  margin-right: 0;
+  margin-left: 25%;
   /*background-color: #ee6600;*/
   background-repeat:no-repeat;
   background-image: url(../images/dublinjs-logo.jpg);
