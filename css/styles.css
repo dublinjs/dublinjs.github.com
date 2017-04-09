@@ -39,6 +39,7 @@ h1.logo {
   margin-right: 0;
   background-color: #ee6600;
   background-repeat:no-repeat;
+   z-index: 0;
 }
 
 h1.logo-img {
@@ -47,6 +48,7 @@ h1.logo-img {
   margin-left: 25%;
   background-repeat:no-repeat;
   background-image: url(../images/dublinjs-logo.jpg);
+  z-index: 10;
 }
 
 h1.logo span {
