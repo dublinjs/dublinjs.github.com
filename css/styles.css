@@ -37,12 +37,12 @@ h1 {
 h1.logo {
   font-weight: 200;
   margin-right: 0;
-  /*background-color: #ee6600;*/
+  background-color: #ee6600;
   background-repeat:no-repeat;
    z-index: 0;
 }
 
-h1.logo span {
+h1.logo .logo-img {
    font-weight: 200;
   margin-right: 0;
   margin-left: 25%;
